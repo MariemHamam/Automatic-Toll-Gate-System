@@ -33,7 +33,7 @@ This system detects a vehicle using an IR sensor and automatically opens a gate 
 
 ## 🔧 Code
 
-The full code can be found in [`toll_gate.ino`](./toll_gate.ino)
+The full code can be found in [CODE.cpp](./CODE.cpp)
 
 ---
 
